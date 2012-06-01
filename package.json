@@ -1,5 +1,5 @@
 { "name": "simpleparser"
-, "description": "Simple Simple Javascript parser, inspired by PetitParser"
+, "description": "Simple Javascript parser, inspired by PetitParser"
 , "keywords": [ "parser", "peg", "parsing expression grammar", "javascript" ]
 , "version": "0.0.1-alfa"
 , "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
