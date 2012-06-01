@@ -1,0 +1,16 @@
+{ "name": "simpleparser"
+, "description": "Simple Simple Javascript parser, inspired by PetitParser"
+, "keywords": [ "parser", "peg", "parsing expression grammar", "javascript" ]
+, "version": "0.0.1-alfa"
+, "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
+, "repository": { "type": "git", "url": "git://github.com/ajlopez/SimpleParser.git" }
+, "main": "./lib/simpleparser.js"
+, "engines": { "node": ">= 0.6.0 && < 0.9.0" }
+, "scripts": {
+    "test": "node ./test.js"
+  }
+, "dependencies": {
+  }
+, "devDependencies": {
+  }
+}
